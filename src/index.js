@@ -16,7 +16,7 @@ class App extends Component {
       <Router>
         <Helmet>
           <html lang="en" />
-          <title>My Blog for react</title>
+          <title>My Blog for React</title>
           <meta
             content="a new modern web blog template cute blog for react with helmet SEO"
             name="description"
